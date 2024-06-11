@@ -1,0 +1,28 @@
+
+r	java:S106P"+Replace this use of System.out by a logger.(šĞÓÏÿÿÿÿÿ8¼¸£Ë€2J$ecce93e8-80ec-436e-b2e0-890a268f753d
+r	java:S106T"+Replace this use of System.out by a logger.(èÅ£äıÿÿÿÿ8¼¸£Ë€2J$d5149f01-e6e9-4d86-97b3-6ab768587c27
+”
+java:S3457V"Q%n should be used in place of \n to produce the platform-specific line separator.(ÁÕáÏ8½¸£Ë€2J$3bc3f2dc-147a-4d0e-8baa-28c1d471d00f
+m	java:S106V"+Replace this use of System.out by a logger.(ÁÕáÏ8½¸£Ë€2J$4d884320-e9b5-40fe-af87-d5df786db4e6
+”
+java:S3457a"Q%n should be used in place of \n to produce the platform-specific line separator.(‡Â€í8¾¸£Ë€2J$d85ced2f-8d8e-4f2e-a213-c79551a555b1
+m	java:S106a"+Replace this use of System.out by a logger.(‡Â€í8¾¸£Ë€2J$fdf9e4b7-e10c-452d-a07b-13b171a3219c
+m	java:S106m"+Replace this use of System.out by a logger.(¢§öƒ8À¸£Ë€2J$819db3cd-aaae-4177-be02-5be5952691b0
+n
+java:S3457p"Q%n should be used in place of \n to produce the platform-specific line separator.(·÷ê8¶•ÅË€2
+m	java:S106p"+Replace this use of System.out by a logger.(·÷ê8À¸£Ë€2J$2167fabf-8858-4307-82f5-75a6fa1b0769
+r	java:S106q"+Replace this use of System.out by a logger.(şöòùÿÿÿÿ8À¸£Ë€2J$30662bf7-9e07-46e5-a7e4-77b7a851db65
+m	java:S106w"+Replace this use of System.out by a logger.(…«ò¯8Á¸£Ë€2J$0a062ace-11a4-412e-adb7-61928824bbcd
+m	java:S106z"+Replace this use of System.out by a logger.(·şĞ‚8Â¸£Ë€2J$fbc16a8f-682a-45ca-aec5-1b984451e9a2
+n	java:S106€"+Replace this use of System.out by a logger.(§¾ƒ–8Ã¸£Ë€2J$6f02312c-06c2-4070-9281-ec637e902220
+s	java:S106†"+Replace this use of System.out by a logger.(¡Š¡€ıÿÿÿÿ8Ã¸£Ë€2J$d2642f3d-abce-4e7a-9348-3cbdd7f3f8ff
+m	java:S106"+Replace this use of System.out by a logger.(ü¾j8Ä¸£Ë€2J$a59c4007-97c6-4649-a7c0-579f6fd47907
+s	java:S106"+Replace this use of System.out by a logger.(ÉšóÍıÿÿÿÿ8Å¸£Ë€2J$906f21bb-fe2e-4f5b-8309-13c37fa50478
+n	java:S106™"+Replace this use of System.out by a logger.(öæ‘8Æ¸£Ë€2J$c9bd5ba1-ec2d-483d-9282-d13b9b13435d
+n	java:S106Ÿ"+Replace this use of System.out by a logger.(­¡‚ä8Ç¸£Ë€2J$68f4527b-8482-4eac-8084-348c88406fd6
+L
+java:S1874¢".Remove this use of "divide"; it is deprecated.(¯»³ü8½•ÅË€2
+P
+java:S1874¢"2Remove this use of "ROUND_DOWN"; it is deprecated.(¯»³ü8½•ÅË€2
+s	java:S106£"+Replace this use of System.out by a logger.(¸¹Œüÿÿÿÿ8È¸£Ë€2J$d75c378a-bf17-4dd4-9646-c8fb6f8e51da
+n	java:S106©"+Replace this use of System.out by a logger.(çë§æ8Õç£Ë€2J$8f6aacba-286f-45a6-a3ea-9a1bd5d2b1e4
